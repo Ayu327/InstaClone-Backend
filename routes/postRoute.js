@@ -38,7 +38,7 @@ router.get('/PostView', async (req, res) => {
 
     } catch (error) {
         res.status(500).json({
-            message: "Something went wrong to get "
+            message: "Something went wrong to me i dont know "
         })
     }
 })
